@@ -6,6 +6,9 @@
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AplikasiPengelolaanKontak/src/database/DatabaseConnection.java</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AplikasiPengelolaanKontak/src/database/DatabaseSetup.java</file>
             <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AplikasiPengelolaanKontak/src/view/PengelolaanKontakFrame.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AplikasiPengelolaanKontak/src/controller/KontakController.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AplikasiPengelolaanKontak/src/model/Kontak.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/AplikasiPengelolaanKontak/src/model/KontakDAO.java</file>
         </group>
     </open-files>
 </project-private>
