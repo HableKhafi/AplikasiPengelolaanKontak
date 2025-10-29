@@ -36,7 +36,7 @@ public class PengelolaanKontakFrame extends javax.swing.JFrame {
         // Panggil fungsi load data awal
         loadContacts();
         
-        this.setSize(555, 680); // atur ukuran default jendela
+        this.setSize(550, 670); // atur ukuran default jendela
         this.setLocationRelativeTo(null); // tampil di tengah layar
     }
 
